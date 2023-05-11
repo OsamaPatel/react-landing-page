@@ -1,0 +1,120 @@
+{
+  "Header": {
+    "title": "Bio Data Filing",
+    "paragraph": "We allot Data Entry Projects as Work From Home Job through all over India."
+  },
+  "About": {
+    "paragraph": "We allot Data Entry Projects as Work From Home Job through All over India.You can earn Handsome Income by Working at your Home.There is No Pre-Registration fees to be paid.Work From Anywhere & Anytime, at your own convenience.All you need to have is Laptop/Desktop & a Proper Internet connection to Work.",
+    "Why": [
+      "No Registration Fees",
+      "24/7 Customer Care",
+      "Data Confidentiality"
+    ],
+    "Why2": [
+      "Utilize Technology",
+      "Fast Process",
+      "Easy Registration Process"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-shield",
+      "name": "DATA CONFIDENTIALITY",
+      "text": "We have your data safe with us."
+    },
+    {
+      "icon": "fa fa-handshake",
+      "name": "WE TRUST YOU",
+      "text": "No Need To Pay Any Amount At The Time Of Your Registration."
+    },
+    {
+      "icon": "fa fa-bolt",
+      "name": "FAST PROCESS",
+      "text": "You can start working with us once your documents are verified."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-microchip",
+      "title": "UTILIZE TECHNOLOGY",
+      "text": "We use cutting edge technologies so that you can work from anywhere,anytime."
+    },
+    {
+      "icon": "fa fa-regular fa-headsets",
+      "title": "PROVIDE EXCELLENT CUSTOMER SERVICE",
+      "text": "We have a team to solve each and every query you ask."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "IDENTIFY THE TARGET MARKET",
+      "text": "We know which market should we target for your betterment as well as the company."
+    },
+    {
+      "icon": "fa fa-microchip-ai",
+      "title": "EXPERT IN THIS INDUSTRY",
+      "text": "We use Artificial Intelligence to check whether the entered text is correct or not for maximum accuracy."
+    }
+  ]
+}
